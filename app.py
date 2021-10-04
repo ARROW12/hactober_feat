@@ -1,4 +1,4 @@
 def star():
-  print("Hactoberfest is here")
+  print("Hactoberfest2021 is here")
   
 star()
